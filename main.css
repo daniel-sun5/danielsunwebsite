@@ -1,0 +1,132 @@
+h2 {
+  color: green; /* sets the colour to green*/
+  font-size: 70px; /* sets the font size to 70px*/
+  margin-top: 50px; /* sets the top margin to 50px*/
+  background-color: white; /* sets the background colour to white*/
+  text-align: center; /* aligns the text to the center*/
+  border-radius: 10px; /* sets the border radius to 10px*/
+}
+h5 {
+  color: rgb(0, 0, 128); /* sets the colour to rgb(0,0,128)*/
+  font-size: 40px; /* sets the font size to 40px*/
+  text-align: center; /* aligns the text to the center*/
+}
+span {
+  font-size: 40px; /* sets the font size to 40px*/
+  text-align: center; /* aligns the text to the center*/
+}
+
+img {
+  width: 250px; /* sets the width to 250px*/
+  height: auto; /* sets the height to auto*/
+  margin-left: 50px; /* sets the left margin to 50px*/
+  float: left; /* sets the image to float to the left*/
+  border-radius: 10px; /* sets the border radius to 10px*/
+}
+
+header {
+  background-color: rgb(255, 255, 255); /* sets the background colour to rgb (255, 255, 255)*/
+  font-size: 20px; /* sets the font size to 20px*/
+  border-bottom: 30px solid rgb(255, 255, 255); /* sets the border colour to white, border width to 30px and style to solid*/
+  border-radius: 10px; /* sets border radius to 10px*/
+}
+.span-1 {
+  text-align: center; /* aligns the text to the center*/
+}
+.p-1 {
+  font-size: 25px; /* sets the font size to 25px*/
+  text-align: center; /* aligns the text to the center*/
+}
+body {
+  background-color: lightblue; /* sets the background colour to lightblue*/
+  font-family: monospace; /* sets the font family to monospace*/
+}
+.p-2 {
+  font-size: 25px; /* sets the font size to 25px*/
+  text-align: center; /* aligns the text to the center*/
+}
+.p-3 {
+  font-size: 25px; /* sets the font size to 25px*/
+  text-align: center; /* aligns the text to the center*/
+}
+a {
+  text-align: center; /* aligns the text to the center*/
+}
+footer {
+  background-color: white; /* sets the background colour to white*/
+  color: black; /* sets the colour to black*/
+  padding: 20px; /* sets the padding to 20px*/
+  text-align: center; /* aligns the text to the center*/
+  margin-top: 50px; /* sets the top margin to 50px*/
+}
+.span-5 {
+  text-decoration: none; /* removes text decoration*/
+  background-color: white; /* sets the background colour to white*/
+  border: 10px solid blue; /* sets the border to 10px solid blue*/
+  border-radius: 10px; /* sets the border radius to 10px*/
+  margin-top: 300px; /* sets the top margin to 300px*/
+  font-size: 30px; /* sets the font size to 30px*/
+  text-align: left; /* aligns the text to the left*/
+}
+.p-5 {
+  text-align: center; /* aligns the text to the center*/
+  font-size: 30px; /* sets the font size to 30px*/
+  float: right; /* sets the text to float to the right*/
+  font-weight: normal; /* sets the font weight to normal*/
+  margin-bottom: 20px; /* sets the bottom margin to 20px*/
+}
+.span-1 {
+  margin-top: 30px; /* sets the top margin to 30px*/
+  text-align: center; /* aligns the text to the center*/
+}
+h6 {
+  font-size: 30px; /* sets the font size to 30px*/
+  text-align: center; /* aligns the text to the center*/
+}
+.p-6 {
+  font-size: 23px; /* sets the font size to 23px*/
+  text-align: center; /* aligns the text to the center*/
+  font-weight: normal; /* sets the font weight to normal*/
+  float: right; /* sets the text to float to the right*/
+  margin-bottom: 20px; /* sets the bottom margin to 20px*/
+}
+h7 {
+  font-size: 35px; /* sets the font size to 35px*/
+}
+em {
+  font-size: 35px; /* sets the font size to 35px*/
+}
+ul {
+  list-style-type: none; /* removes the bullet points from the list*/
+  margin: 0; /* removes the margin*/
+  padding: 0px; /* removes the padding*/
+  overflow: hidden; /* hides any overflow content*/
+  background-color: #ffffff; /* sets the background colour to white*/
+}
+ul li {
+  float: right; /* sets the list items to float to the right*/
+}
+ul li a {
+  display: block; /* sets the display to block*/
+  color: green; /* sets the colour to green*/
+  text-align: center; /* aligns the text to the center*/
+  padding: 14px 16px; /* sets the padding to 14px 16px*/
+  text-decoration: none; /* removes the text decoration*/
+}
+.p-7 {
+  text-align: center; /* aligns the text to the center*/
+  font-size: 30px; /* sets the font size to 30px*/
+  font-weight: normal; /* sets the font weight to normal*/
+  background-color: lightblue; /* sets the background colour to lightblue*/
+  margin-bottom: 20px; /* sets the bottom margin to 20px*/
+}
+.span-4 {
+  text-align: center; /* aligns the text to the center*/
+}
+.a-1 {
+  margin-left: 640px; /* sets the left margin to 640px*/
+  font-size: 25px; /* sets the font size to 25px*/
+}
+p {
+  font-size: 30px; /* sets the font size to 30px*/
+}
